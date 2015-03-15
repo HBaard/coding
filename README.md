@@ -1,2 +1,3 @@
 # coding
-different small coding projects
+Small coding projects, sample code, aliases and configurations
+that can be useful.
